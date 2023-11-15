@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1698709989 source:c:\users\padul\onedrive\escritorio\universidad\2º cuatrimestre\programación i\proyectos\combo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Combo.h"
+
+1698708924 c:\users\padul\onedrive\escritorio\universidad\2º cuatrimestre\programación i\proyectos\combo\combo.h
+	<string.h>
+
+1699559769 source:c:\users\padul\onedrive\escritorio\universidad\2º cuatrimestre\programación i\proyectos\pmi\main.c
+	"Lista.h"
+
+1699025464 c:\users\padul\onedrive\escritorio\universidad\2º cuatrimestre\programación i\proyectos\pmi\combo.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1699558712 c:\users\padul\onedrive\escritorio\universidad\2º cuatrimestre\programación i\proyectos\pmi\pedido.h
+	"combo.h"
+	<time.h>
+
+1699557377 c:\users\padul\onedrive\escritorio\universidad\2º cuatrimestre\programación i\proyectos\pmi\lista.h
+	"Pedido.h"
+
+1699571538 source:c:\users\santi\onedrive\documentos\facultad\prog 1\pmi\main.c
+	"Lista.h"
+
+1699541852 c:\users\santi\onedrive\documentos\facultad\prog 1\pmi\lista.h
+	"Pedido.h"
+
+1699541854 c:\users\santi\onedrive\documentos\facultad\prog 1\pmi\pedido.h
+	"combo.h"
+	<time.h>
+
+1699541852 c:\users\santi\onedrive\documentos\facultad\prog 1\pmi\combo.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1699572550 source:e:\pmi\main.c
+	"Lista.h"
+
+1699541852 e:\pmi\lista.h
+	"Pedido.h"
+
+1699541854 e:\pmi\pedido.h
+	"combo.h"
+	<time.h>
+
+1699541852 e:\pmi\combo.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1699988362 source:c:\users\padul\downloads\pmi\main.c
+	"Lista.h"
+
+1699903660 c:\users\padul\downloads\pmi\lista.h
+	"Pedido.h"
+
+1699903662 c:\users\padul\downloads\pmi\pedido.h
+	"combo.h"
+	<time.h>
+
+1699903660 c:\users\padul\downloads\pmi\combo.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1699651672 source:c:\users\santi\onedrive\escritorio\pmi\main.c
+	"Lista.h"
+
+1699631390 c:\users\santi\onedrive\escritorio\pmi\lista.h
+	"Pedido.h"
+
+1699631390 c:\users\santi\onedrive\escritorio\pmi\pedido.h
+	"combo.h"
+	<time.h>
+
+1699631390 c:\users\santi\onedrive\escritorio\pmi\combo.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1699920425 source:c:\users\santi\onedrive\documentos\facultad\prog 1\tp maquina\pmi\main.c
+	"Lista.h"
+
+1699631390 c:\users\santi\onedrive\documentos\facultad\prog 1\tp maquina\pmi\lista.h
+	"Pedido.h"
+
+1699631390 c:\users\santi\onedrive\documentos\facultad\prog 1\tp maquina\pmi\pedido.h
+	"combo.h"
+	<time.h>
+
+1699631390 c:\users\santi\onedrive\documentos\facultad\prog 1\tp maquina\pmi\combo.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
